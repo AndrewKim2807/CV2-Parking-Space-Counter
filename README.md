@@ -16,7 +16,7 @@ Dieses Projekt zeigt, wie man mithilfe von Computer-Vision-Techniken einen Parkp
 - **Echtzeiterkennung**: Nutzt Computer Vision, um Parkplätze zu erkennen.
 - **Platzzählung**: Zählt die Anzahl der verfügbaren Parkplätze.
 
-#【🇨🇳 中文】先进的计算机视觉车位检测
+# 【🇨🇳 中文】先进的计算机视觉车位检测
 
 ## 概述
 ** 该项目还有更多代码和文件未在此存储库中公开。
