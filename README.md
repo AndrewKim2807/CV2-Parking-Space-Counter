@@ -13,3 +13,5 @@
 </div>
 
 <br/>
+
+![Thumbnail](https://github.com/AndrewKim2807/CV2-Parking-Space-Counter/blob/main/Parking%20Space%20Counter%20Algorithm%20Detector.png)
